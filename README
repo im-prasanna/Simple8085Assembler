@@ -1,0 +1,7 @@
+# Simple 8085 assembler #
+
+Build: make all
+Clean: make clean
+
+#The program takes assembly file as the only arguement to assemble.
+#And the creates the output binary file "a.bin" in the current working directory
